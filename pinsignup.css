@@ -176,7 +176,7 @@ h4{
     border-radius: 50%;
 }
 .clear a{
-    color: rgb(116, 116, 116);
+    color: rgb(0, 0, 0);
     text-decoration: none;
 }
 .fa-solid{
@@ -184,5 +184,5 @@ h4{
 }
 .clear:hover{
     cursor: pointer;
-    background-color: rgb(65, 64, 64);
+    background-color: rgba(131, 127, 127, 0.184);
 }
